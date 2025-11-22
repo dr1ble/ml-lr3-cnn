@@ -4,6 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 .idea
 .vscode/
-*.pth
 /datasets/
 .DS_STORE
