@@ -6,3 +6,4 @@ __pycache__/
 .vscode/
 *.pth
 /datasets/
+.DS_STORE
